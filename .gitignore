@@ -5,4 +5,4 @@ pruebas/ # esto ignora una carpeta llamada pruebas
 obsoleto/
 *.pyc
 recibido.*
-
+texto_out.txt
