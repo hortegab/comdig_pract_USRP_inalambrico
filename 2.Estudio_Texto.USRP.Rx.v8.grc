@@ -93,7 +93,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1312, 5)</value>
+      <value>(992, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -120,7 +120,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1216, 5)</value>
+      <value>(896, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -147,7 +147,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(664, 5)</value>
+      <value>(344, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -174,7 +174,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1864, 5)</value>
+      <value>(72, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -201,7 +201,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(240, 85)</value>
+      <value>(1408, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -228,7 +228,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(240, 149)</value>
+      <value>(1408, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -255,7 +255,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(240, 205)</value>
+      <value>(1584, 76)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -278,11 +278,38 @@
     </param>
     <param>
       <key>_enabled</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(1536, 12)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>Constelacion</value>
+    </param>
+    <param>
+      <key>value</key>
+      <value>digital.constellation_qpsk().points()</value>
+    </param>
+  </block>
+  <block>
+    <key>variable</key>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
       <value>True</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(0, 85)</value>
+      <value>(712, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -313,7 +340,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3304, 113)</value>
+      <value>(352, 844)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -376,7 +403,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3304, 1)</value>
+      <value>(200, 844)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -435,7 +462,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(496, 5)</value>
+      <value>(176, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -462,7 +489,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1792, 5)</value>
+      <value>(0, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -501,7 +528,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1632, 0)</value>
+      <value>(1168, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -540,7 +567,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2312, 5)</value>
+      <value>(520, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -567,7 +594,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1936, 5)</value>
+      <value>(144, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -594,7 +621,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2400, 5)</value>
+      <value>(608, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -621,7 +648,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1032, 5)</value>
+      <value>(712, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -648,7 +675,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(0, 141)</value>
+      <value>(936, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -675,7 +702,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(160, 141)</value>
+      <value>(1096, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -702,7 +729,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(848, 1525)</value>
+      <value>(16, 916)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -729,7 +756,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3120, 85)</value>
+      <value>(16, 844)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -756,7 +783,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1112, 5)</value>
+      <value>(792, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -783,7 +810,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2040, 5)</value>
+      <value>(248, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -810,7 +837,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3224, 85)</value>
+      <value>(120, 844)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -837,7 +864,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(760, 5)</value>
+      <value>(440, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -864,7 +891,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(816, 5)</value>
+      <value>(496, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -891,7 +918,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2224, 5)</value>
+      <value>(432, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -918,7 +945,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(72, 141)</value>
+      <value>(1008, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -945,7 +972,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(880, 5)</value>
+      <value>(560, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -980,7 +1007,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3304, 232)</value>
+      <value>(504, 844)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1019,7 +1046,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(568, 5)</value>
+      <value>(248, 4)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1046,7 +1073,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(88, 85)</value>
+      <value>(800, 68)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1077,7 +1104,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3104, 432)</value>
+      <value>(760, 852)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1192,7 +1219,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3296, 546)</value>
+      <value>(1080, 860)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -1400,7 +1427,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1312, 280)</value>
+      <value>(1344, 284)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1588,11 +1615,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(416, 1633)</value>
+      <value>(408, 1904)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1639,7 +1666,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/uis-e3t/LIBRERIAS/comdig_pract_USRP_inalambrico/texto_out.txt</value>
+      <value>/home/uis-e3t/LIBRERIAS/comdig_pract_USRP_inalambrico/texto_out2.txt</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -1682,11 +1709,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(528, 1429)</value>
+      <value>(520, 1700)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1733,11 +1760,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(584, 1621)</value>
+      <value>(576, 1892)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1788,11 +1815,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(552, 1849)</value>
+      <value>(544, 2120)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1843,11 +1870,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(416, 1436)</value>
+      <value>(408, 1708)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1886,7 +1913,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(3296, 447)</value>
+      <value>(944, 860)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -2001,7 +2028,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2952, 439)</value>
+      <value>(632, 852)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -2313,6 +2340,77 @@
     </param>
   </block>
   <block>
+    <key>digital_pfb_clock_sync_xxx</key>
+    <param>
+      <key>alias</key>
+      <value></value>
+    </param>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>affinity</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>filter_size</key>
+      <value>nfilts</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(864, 1084)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>digital_pfb_clock_sync_xxx_0_0</value>
+    </param>
+    <param>
+      <key>init_phase</key>
+      <value>nfilts/2</value>
+    </param>
+    <param>
+      <key>loop_bw</key>
+      <value>2*math.pi/100.0</value>
+    </param>
+    <param>
+      <key>maxoutbuf</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>max_dev</key>
+      <value>1.5</value>
+    </param>
+    <param>
+      <key>minoutbuf</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>osps</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>sps</key>
+      <value>Sps</value>
+    </param>
+    <param>
+      <key>taps</key>
+      <value>rrc_taps_rx</value>
+    </param>
+    <param>
+      <key>type</key>
+      <value>ccf</value>
+    </param>
+  </block>
+  <block>
     <key>virtual_source</key>
     <param>
       <key>comment</key>
@@ -2428,11 +2526,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(40, 1436)</value>
+      <value>(32, 1708)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2441,6 +2539,87 @@
     <param>
       <key>id</key>
       <value>e1_0_0_0_1_0_0_0_0_1_0_0</value>
+    </param>
+    <param>
+      <key>stream_id</key>
+      <value>R-1</value>
+    </param>
+  </block>
+  <block>
+    <key>virtual_source</key>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(696, 1132)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>e1_0_0_0_1_0_0_0_0_2</value>
+    </param>
+    <param>
+      <key>stream_id</key>
+      <value>R0</value>
+    </param>
+  </block>
+  <block>
+    <key>virtual_source</key>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(680, 996)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>e1_0_0_0_1_0_0_0_0_2_0</value>
+    </param>
+    <param>
+      <key>stream_id</key>
+      <value>R0.2</value>
+    </param>
+  </block>
+  <block>
+    <key>virtual_source</key>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(24, 1420)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>e1_0_0_0_1_0_0_0_0_3</value>
     </param>
     <param>
       <key>stream_id</key>
@@ -2463,7 +2642,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2504, 4)</value>
+      <value>(1728, 12)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2494,7 +2673,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2592, 4)</value>
+      <value>(1816, 12)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2525,7 +2704,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2784, 4)</value>
+      <value>(2008, 12)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2556,7 +2735,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2880, 4)</value>
+      <value>(2104, 12)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2587,7 +2766,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(2688, 4)</value>
+      <value>(1912, 12)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2618,38 +2797,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(24, 908)</value>
-    </param>
-    <param>
-      <key>_rotation</key>
-      <value>0</value>
-    </param>
-    <param>
-      <key>id</key>
-      <value>note_0_0_1</value>
-    </param>
-    <param>
-      <key>note</key>
-      <value>CAPA0 CANAL</value>
-    </param>
-  </block>
-  <block>
-    <key>note</key>
-    <param>
-      <key>alias</key>
-      <value></value>
-    </param>
-    <param>
-      <key>comment</key>
-      <value></value>
-    </param>
-    <param>
-      <key>_enabled</key>
-      <value>1</value>
-    </param>
-    <param>
-      <key>_coordinate</key>
-      <value>(16, 908)</value>
+      <value>(16, 796)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2692,11 +2840,11 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(448, 965)</value>
+      <value>(432, 1012)</value>
     </param>
     <param>
       <key>gui_hint</key>
-      <value>canal@0:1,0,1,1</value>
+      <value>canal@0:1,1,1,1</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -3035,11 +3183,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(400, 1709)</value>
+      <value>(392, 1980)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -3390,7 +3538,7 @@
     </param>
     <param>
       <key>gui_hint</key>
-      <value>canal@0:1,1,1,1</value>
+      <value>canal@0:1,0,1,1</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -3733,11 +3881,11 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(440, 1197)</value>
+      <value>(568, 1192)</value>
     </param>
     <param>
       <key>gui_hint</key>
-      <value>canal@0:2,0,1,1</value>
+      <value>canal@0:0,1,1,1</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -4053,6 +4201,353 @@
     </param>
   </block>
   <block>
+    <key>qtgui_const_sink_x</key>
+    <param>
+      <key>autoscale</key>
+      <value>False</value>
+    </param>
+    <param>
+      <key>axislabels</key>
+      <value>True</value>
+    </param>
+    <param>
+      <key>alias</key>
+      <value></value>
+    </param>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>affinity</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(328, 1424)</value>
+    </param>
+    <param>
+      <key>gui_hint</key>
+      <value>canal@0:0,0,1,1</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>grid</key>
+      <value>False</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>qtgui_const_sink_x_0_1_1_0_0</value>
+    </param>
+    <param>
+      <key>legend</key>
+      <value>True</value>
+    </param>
+    <param>
+      <key>alpha1</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color1</key>
+      <value>"blue"</value>
+    </param>
+    <param>
+      <key>label1</key>
+      <value>Rx.R-1.Canal</value>
+    </param>
+    <param>
+      <key>marker1</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style1</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width1</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha10</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color10</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label10</key>
+      <value></value>
+    </param>
+    <param>
+      <key>marker10</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style10</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width10</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha2</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color2</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label2</key>
+      <value>Rx.R-1.AGC</value>
+    </param>
+    <param>
+      <key>marker2</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style2</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width2</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha3</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color3</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label3</key>
+      <value></value>
+    </param>
+    <param>
+      <key>marker3</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style3</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width3</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha4</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color4</key>
+      <value>"blue"</value>
+    </param>
+    <param>
+      <key>label4</key>
+      <value>Filtro RRC y MPSK Timing Recovery</value>
+    </param>
+    <param>
+      <key>marker4</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style4</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width4</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha5</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color5</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label5</key>
+      <value></value>
+    </param>
+    <param>
+      <key>marker5</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style5</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width5</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha6</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color6</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label6</key>
+      <value></value>
+    </param>
+    <param>
+      <key>marker6</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style6</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width6</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha7</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color7</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label7</key>
+      <value></value>
+    </param>
+    <param>
+      <key>marker7</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style7</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width7</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha8</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color8</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label8</key>
+      <value></value>
+    </param>
+    <param>
+      <key>marker8</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style8</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width8</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>alpha9</key>
+      <value>1.0</value>
+    </param>
+    <param>
+      <key>color9</key>
+      <value>"red"</value>
+    </param>
+    <param>
+      <key>label9</key>
+      <value></value>
+    </param>
+    <param>
+      <key>marker9</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>style9</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>width9</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>name</key>
+      <value></value>
+    </param>
+    <param>
+      <key>nconnections</key>
+      <value>1</value>
+    </param>
+    <param>
+      <key>size</key>
+      <value>1024</value>
+    </param>
+    <param>
+      <key>tr_chan</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>tr_level</key>
+      <value>0.0</value>
+    </param>
+    <param>
+      <key>tr_mode</key>
+      <value>qtgui.TRIG_MODE_FREE</value>
+    </param>
+    <param>
+      <key>tr_slope</key>
+      <value>qtgui.TRIG_SLOPE_POS</value>
+    </param>
+    <param>
+      <key>tr_tag</key>
+      <value>""</value>
+    </param>
+    <param>
+      <key>type</key>
+      <value>complex</value>
+    </param>
+    <param>
+      <key>update_time</key>
+      <value>0.10</value>
+    </param>
+    <param>
+      <key>xmax</key>
+      <value>0.04</value>
+    </param>
+    <param>
+      <key>xmin</key>
+      <value>-0.04</value>
+    </param>
+    <param>
+      <key>ymax</key>
+      <value>0.04</value>
+    </param>
+    <param>
+      <key>ymin</key>
+      <value>-0.04</value>
+    </param>
+  </block>
+  <block>
     <key>qtgui_freq_sink_x</key>
     <param>
       <key>autoscale</key>
@@ -4100,7 +4595,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(424, 1046)</value>
+      <value>(1120, 1052)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -4164,7 +4659,7 @@
     </param>
     <param>
       <key>label2</key>
-      <value>Rx.Con Ecualizacion</value>
+      <value>RxClock recovery</value>
     </param>
     <param>
       <key>width2</key>
@@ -4296,7 +4791,7 @@
     </param>
     <param>
       <key>nconnections</key>
-      <value>1</value>
+      <value>2</value>
     </param>
     <param>
       <key>showports</key>
@@ -4399,7 +4894,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(416, 1350)</value>
+      <value>(848, 1324)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -4698,7 +5193,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(672, 1254)</value>
+      <value>(864, 1244)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -4977,11 +5472,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(696, 1689)</value>
+      <value>(688, 1956)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -5304,11 +5799,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(688, 1809)</value>
+      <value>(680, 2076)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -5627,11 +6122,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(664, 1422)</value>
+      <value>(656, 1692)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -5866,11 +6361,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(656, 1518)</value>
+      <value>(648, 1788)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -6233,11 +6728,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(688, 1614)</value>
+      <value>(680, 1884)</value>
     </param>
     <param>
       <key>gui_hint</key>
@@ -6580,7 +7075,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1284, 152)</value>
+      <value>(1300, 200)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -6607,7 +7102,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1492, 168)</value>
+      <value>(1476, 192)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -7806,7 +8301,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1568, 287)</value>
+      <value>(1528, 292)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -8076,14 +8571,14 @@
     <sink_key>0</sink_key>
   </connection>
   <connection>
-    <source_block_id>e1_0_0_0_1_0_0_0_0</source_block_id>
-    <sink_block_id>qtgui_const_sink_x_0_1</sink_block_id>
+    <source_block_id>digital_pfb_clock_sync_xxx_0_0</source_block_id>
+    <sink_block_id>qtgui_freq_sink_x_0</sink_block_id>
     <source_key>0</source_key>
-    <sink_key>0</sink_key>
+    <sink_key>1</sink_key>
   </connection>
   <connection>
     <source_block_id>e1_0_0_0_1_0_0_0_0</source_block_id>
-    <sink_block_id>qtgui_freq_sink_x_0</sink_block_id>
+    <sink_block_id>qtgui_const_sink_x_0_1</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
@@ -8132,6 +8627,24 @@
   <connection>
     <source_block_id>e1_0_0_0_1_0_0_0_0_1_0_0</source_block_id>
     <sink_block_id>qtgui_const_sink_x_0_1_0</sink_block_id>
+    <source_key>0</source_key>
+    <sink_key>0</sink_key>
+  </connection>
+  <connection>
+    <source_block_id>e1_0_0_0_1_0_0_0_0_2</source_block_id>
+    <sink_block_id>digital_pfb_clock_sync_xxx_0_0</sink_block_id>
+    <source_key>0</source_key>
+    <sink_key>0</sink_key>
+  </connection>
+  <connection>
+    <source_block_id>e1_0_0_0_1_0_0_0_0_2_0</source_block_id>
+    <sink_block_id>qtgui_freq_sink_x_0</sink_block_id>
+    <source_key>0</source_key>
+    <sink_key>0</sink_key>
+  </connection>
+  <connection>
+    <source_block_id>e1_0_0_0_1_0_0_0_0_3</source_block_id>
+    <sink_block_id>qtgui_const_sink_x_0_1_1_0_0</sink_block_id>
     <source_key>0</source_key>
     <sink_key>0</sink_key>
   </connection>
